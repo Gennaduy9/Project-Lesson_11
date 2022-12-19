@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "name": "Adela Hendricks",
+    "picture": "https://damion.club/uploads/posts/2022-03/1646225920_29-damion-club-p-programmist-art-31.jpg",
+    "position": "Flask разработчик",
+    "gender": "female",
+    "age": 40,
+    "skills": "Python, Docker, SQL, Flask"
+  },
+  {
+    "id": 2,
+    "name": "Sheri Torres",
+    "picture": "https://damion.club/uploads/posts/2022-03/1646225925_43-damion-club-p-programmist-art-49.jpg",
+    "position": "Delphi developer",
+    "gender": "female",
+    "age": 26,
+    "skills": "Delphi, pascal, fortran, basic"
+  },
+  {
+    "id": 3,
+    "name": "Burt Stein",
+    "picture": "https://damion.club/uploads/posts/2022-03/thumbs/1646225977_35-damion-club-p-programmist-art-38.jpg",
+    "position": "Менеджер Planning",
+    "gender": "male",
+    "age": 33,
+    "skills": "Planning, Negotiation, Management, Sales"
+  },
+  {
+    "id": 4,
+    "name": "Bauer Adkins",
+    "picture": "https://damion.club/uploads/posts/2022-03/1646225928_47-damion-club-p-programmist-art-53.jpg",
+    "position": "Программист ПО",
+    "gender": "male",
+    "age": 37,
+    "skills": "Windows, MacOS, SQL, Jira"
+  },
+  {
+    "id": 5,
+    "name": "Day Holloway",
+    "picture": "https://damion.club/uploads/posts/2022-03/thumbs/1646225962_54-damion-club-p-programmist-art-62.jpg",
+    "position": "Тестостеровщик ПО",
+    "gender": "male",
+    "age": 35,
+    "skills": "LinkedIn, telegram, windows, MacOS, SQL, Jira"
+  },
+  {
+    "id": 6,
+    "name": "Austin Cochran",
+    "picture": "https://damion.club/uploads/posts/2022-03/thumbs/1646226036_59-damion-club-p-programmist-art-68.jpg",
+    "position": "Python разработчик",
+    "gender": "male",
+    "age": 26,
+    "skills": "html, python, planning, django"
+  },
+  {
+    "id": 7,
+    "name": "Sheri Love",
+    "picture": "https://damion.club/uploads/posts/2022-03/thumbs/1646225921_19-damion-club-p-programmist-art-20.jpg",
+    "position": "Разработчик Django",
+    "gender": "female",
+    "age": 33,
+    "skills": "Python, Django, flask"
+  }
+]
